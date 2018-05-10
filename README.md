@@ -4,11 +4,11 @@ Code for Baltimore is an official Code for America Brigade in Baltimore, MD work
 
 Baltimore, MD
 
-* https://www.meetup.com/Code-for-Baltimore/
-* https://twitter.com/@codeforbmore
-* https://www.facebook.com/CodeForBaltimore/
-* https://github.com/CodeForBaltimore
-* https://brigade.codeforamerica.org/brigades/Code-for-Baltimore/
+* [Meetup](https://www.meetup.com/Code-for-Baltimore/)
+* [Twitter](https://twitter.com/@codeforbmore)
+* [Facebook](https://www.facebook.com/CodeForBaltimore/)
+* [GitHub](https://github.com/CodeForBaltimore)
+* [Code for America](https://brigade.codeforamerica.org/brigades/Code-for-Baltimore/)
 
 [Donate](https://secure.codeforamerica.org/page/contribute/donate-to-a-brigade-today?source_codes=Brigade-page&brigade=Code%20for%20Baltimore)
 
