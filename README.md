@@ -21,7 +21,7 @@ Should probably change it.
 
 ## Examples of other Brigade sites:
 
-* [San Francisco, CA](http://codeforsanfrancisco.org/) [code](https://github.com/sfbrigade/codeforsanfrancisco.org) (jekyll)
+* [San Francisco, CA](http://codeforsanfrancisco.org/) | [code](https://github.com/sfbrigade/codeforsanfrancisco.org) (jekyll)
 * [DC](https://codefordc.org/) | [code](https://github.com/codefordc/codefordc.github.com) (jekyll)
 * [NYC](https://beta.nyc/) (wordpress)
 * [Boston](http://www.codeforboston.org/) | [code](https://github.com/codeforboston/codeforboston.org) (jekyll)
